@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OBDAndroid</string>
+    <string name="rpm">RPM</string>
+    <string name="temp">TEMP</string>
+    <string name="pid_list">PID List</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="devices_found">%d USB devices found</string>
+    <string name="not_connected">Not connected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connected">Connected</string>
+    <string name="usb_connect_title">Please CONNECT the adapter</string>
+    <string name="usb_select_title">Please select the adapter</string>
+    <string name="ok">OK</string>
+
+    <string-array name="baudRates">
+        <item>1200</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>250000</item>
+        <item>500000</item>
+        <item>1000000</item>
+    </string-array>
+</resources>
